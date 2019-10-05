@@ -32,6 +32,12 @@ a {
   color: var(--accent);
 }
 
+p span {
+  background: #e6e6e6;
+  border-radius: 5px;
+  padding: 0 5px;
+}
+
 button {
   background: var(--accent);
   color: white;
